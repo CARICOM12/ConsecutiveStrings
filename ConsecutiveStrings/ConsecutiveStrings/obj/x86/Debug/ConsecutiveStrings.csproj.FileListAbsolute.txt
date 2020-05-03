@@ -1,0 +1,1 @@
+/home/alex/Projects/ConsecutiveStrings/ConsecutiveStrings/obj/x86/Debug/ConsecutiveStrings.csprojAssemblyReference.cache
